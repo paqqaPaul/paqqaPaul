@@ -1,4 +1,4 @@
-## Hi there 👋
+## Paul van Eck
 
 <!--
 **paqqaPaul/paqqaPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Self employed fullstack webdev from The Netherlands since 2010.
+PHP developer with additional skills in javascript, html and css.
+
+Ready to take on new projects or collaborate with others on their projects.
+
+📫 Contact me at info@paqqa.nl
